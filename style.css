@@ -1,0 +1,11 @@
+.card {
+    border-radius: 12px;
+    border: none;
+}
+
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: 300px;
+    width: 100%;
+}
